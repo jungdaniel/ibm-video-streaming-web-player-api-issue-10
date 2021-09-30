@@ -2,7 +2,7 @@
   "name": "video-streaming-web-player-api-issue-10",
   "version": "0.1.0",
   "private": true,
-  "homepage": ".",
+  "homepage": "https://jungdaniel.github.io/ibm-video-streaming-web-player-api-issue-10/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
