@@ -17,7 +17,7 @@ const MediaPlayer = ({ id, src, thumbnail }) => {
         return;
       }
 
-      const onError = (event) => {
+      const onError = (type, event) => {
         const { name, message } = event;
         switch (name) {
           case 'autoplayRejected':
